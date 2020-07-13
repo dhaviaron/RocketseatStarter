@@ -6,11 +6,12 @@
     "configurations": [
 
 
+
         {
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://127.0.0.1:5500/Javascript/Módulo%202/ex002.html",
+            "url": "http://127.0.0.1:5500/",
             "webRoot": "${workspaceFolder}"
         }
     ]
