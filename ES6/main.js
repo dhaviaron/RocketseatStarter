@@ -1,9 +1,3 @@
-const arr = [1, 3, 4, 5, 6]
+import { soma } from './funcoes'
 
-const newArr = arr.map(item => item * 2)
-
-console.log(newArr)
-
-const teste = () => 3
-
-console.log(teste())
+console.log(soma(1,2))
