@@ -1,8 +1,8 @@
 header#main-header {
-    width: 300px;
+    max-width: 2000px;
     height: 60px;
     background: #30b6d8;
-    font-size: 18px;
+    font-size: 30px;
     font-weight: bold;
     color: azure;
     display: flex;
